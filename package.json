@@ -13,7 +13,7 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": ".",
+  "homepage": "https://meltywd.github.io/devo/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
